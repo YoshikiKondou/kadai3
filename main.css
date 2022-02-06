@@ -1,0 +1,28 @@
+button {
+  width: 50px;
+  height: 30px;
+  font-size: 20px;
+  margin: 3px 0;
+}
+
+button:hover {
+  background: #747373;
+}
+
+#result {
+  width: 210px;
+  height: 30px;
+  background-color: black;
+  color: white;
+  text-align: right;
+}
+
+#allClear {
+  width: 105px;
+  height: 30px;
+}
+ 
+#equal {
+  width: 105px;
+  height: 30px;
+}
